@@ -1,0 +1,30 @@
+[
+    {
+        "identifier": "http:\/\/data.overheid.nl\/status\/beschikbaar",
+        "label": "Beschikbaar",
+        "extra": {
+            "description": "De dataset is beschikbaar voor hergebruik."
+        }
+    },
+    {
+        "identifier": "http:\/\/data.overheid.nl\/status\/gepland",
+        "label": "Gepland",
+        "extra": {
+            "description": "De dataset is gepland om beschikbaar te maken en er is een indicatie wanneer de data beschikbaar komt."
+        }
+    },
+    {
+        "identifier": "http:\/\/data.overheid.nl\/status\/in_onderzoek",
+        "label": "In onderzoek",
+        "extra": {
+            "description": "De mogelijkheid om data beschikbaar te maken wordt op dit moment onderzocht . In de omschrijving van de dataset is eventueel een toelichting gegeven wat er wordt onderzocht en waarom."
+        }
+    },
+    {
+        "identifier": "http:\/\/data.overheid.nl\/status\/niet_beschikbaar",
+        "label": "Niet beschikbaar",
+        "extra": {
+            "description": "De dataset is niet beschikbaar. Dit kan een tijdelijke status zijn omdat de bestanden of services niet werken. De status kan ook worden gegeven aan een dataset waarvan bekend is dat deze er moet zijn, maar die niet is gevonden, en nog niet in onderzoek of gepland is om beschikbaar te maken. Gebruik van deze status wordt afgeraden voor gebruik op data.overheid.nl."
+        }
+    }
+]

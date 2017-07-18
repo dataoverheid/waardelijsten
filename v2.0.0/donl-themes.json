@@ -1,0 +1,70 @@
+[
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Bestuur",
+        "label": "Bestuur"
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Cultuur_en_recreatie",
+        "label": "Cultuur en recreatie"
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Economie",
+        "label": "Economie"
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Financien",
+        "label": "Financi\u00ebn"
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Huisvesting_(thema)",
+        "label": "Huisvesting"
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Internationaal",
+        "label": "Internationaal"
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Landbouw_(thema)",
+        "label": "Landbouw"
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Migratie_en_integratie",
+        "label": "Migratie en integratie"
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Natuur_en_milieu",
+        "label": "Natuur en milieu"
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Onderwijs_en_wetenschap",
+        "label": "Onderwijs en wetenschap"
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Openbare_orde_en_veiligheid",
+        "label": "Openbare orde en veiligheid"
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Recht_(thema)",
+        "label": "Recht"
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Ruimte_en_infrastructuur",
+        "label": "Ruimte en infrastructuur"
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Sociale_zekerheid",
+        "label": "Sociale zekerheid"
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Verkeer_(thema)",
+        "label": "Verkeer"
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Werk_(thema)",
+        "label": "Werk"
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Zorg_en_gezondheid",
+        "label": "Zorg en gezondheid"
+    }
+]

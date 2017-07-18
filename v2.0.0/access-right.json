@@ -1,0 +1,23 @@
+[
+    {
+        "identifier": "PUBLIC",
+        "label": "public",
+        "extra": {
+            "description": "Publicly accessible by everyone. Usage note: Permissible obstacles include registration and request for API keys, as long as anyone can request such registration and\/or API keys."
+        }
+    },
+    {
+        "identifier": "RESTRICTED",
+        "label": "restricted",
+        "extra": {
+            "description": "Only available under certain conditions. Usage note: This category may include resources that require payment, resources shared under non-disclosure agreements, resources for which the publisher or owner has not yet decided if they can be publicly released."
+        }
+    },
+    {
+        "identifier": "NON_PUBLIC",
+        "label": "non-public",
+        "extra": {
+            "description": "Not publicly accessible for privacy, security or other reasons. Usage note: This category may include resources that contain sensitive or personal information."
+        }
+    }
+]

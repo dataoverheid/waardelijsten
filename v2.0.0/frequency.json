@@ -1,0 +1,156 @@
+[
+    {
+        "identifier": "http:\/\/purl.org\/cld\/freq\/triennial",
+        "label": "driejaarlijks",
+        "extra": {
+            "description": "The event occurs every three years."
+        }
+    },
+    {
+        "identifier": "http:\/\/purl.org\/cld\/freq\/biennial",
+        "label": "tweejaarlijks",
+        "extra": {
+            "description": "The event occurs every two years."
+        }
+    },
+    {
+        "identifier": "http:\/\/purl.org\/cld\/freq\/annual",
+        "label": "kasmetinis",
+        "extra": {
+            "description": "The event occurs once a year."
+        }
+    },
+    {
+        "identifier": "http:\/\/purl.org\/cld\/freq\/semiannual",
+        "label": "halfjaarl\u0133ks",
+        "extra": {
+            "description": "The event occurs twice a year."
+        }
+    },
+    {
+        "identifier": "http:\/\/purl.org\/cld\/freq\/threeTimesAYear",
+        "label": "de trei ori pe an",
+        "extra": {
+            "description": "The event occurs three times a year."
+        }
+    },
+    {
+        "identifier": "http:\/\/purl.org\/cld\/freq\/quarterly",
+        "label": "kvartalsvis",
+        "extra": {
+            "description": "The event occurs every three months."
+        }
+    },
+    {
+        "identifier": "http:\/\/purl.org\/cld\/freq\/bimonthly",
+        "label": "annenhver m\u00e5ned",
+        "extra": {
+            "description": "The event occurs every two months."
+        }
+    },
+    {
+        "identifier": "http:\/\/purl.org\/cld\/freq\/monthly",
+        "label": "maandelijks",
+        "extra": {
+            "description": "The event occurs once a month."
+        }
+    },
+    {
+        "identifier": "http:\/\/purl.org\/cld\/freq\/semimonthly",
+        "label": "duas vezes por m\u00eas",
+        "extra": {
+            "description": "The event occurs twice a month."
+        }
+    },
+    {
+        "identifier": "http:\/\/purl.org\/cld\/freq\/biweekly",
+        "label": "dwutygodnik",
+        "extra": {
+            "description": "The event occurs every two weeks."
+        }
+    },
+    {
+        "identifier": "http:\/\/purl.org\/cld\/freq\/threeTimesAMonth",
+        "label": "trikrat na mesec",
+        "extra": {
+            "description": "The event occurs three times a month."
+        }
+    },
+    {
+        "identifier": "http:\/\/purl.org\/cld\/freq\/weekly",
+        "label": "kull \u0121img\u0127a",
+        "extra": {
+            "description": "The event occurs once a week."
+        }
+    },
+    {
+        "identifier": "http:\/\/purl.org\/cld\/freq\/semiweekly",
+        "label": "de dou\u0103 ori pe s\u0103pt\u0103m\u00e2n\u0103",
+        "extra": {
+            "description": "The event occurs twice a week."
+        }
+    },
+    {
+        "identifier": "http:\/\/purl.org\/cld\/freq\/threeTimesAWeek",
+        "label": "de trei ori pe s\u0103pt\u0103m\u00e2n\u0103",
+        "extra": {
+            "description": "The event occurs three times a week."
+        }
+    },
+    {
+        "identifier": "http:\/\/purl.org\/cld\/freq\/daily",
+        "label": "katru dienu",
+        "extra": {
+            "description": "The event occurs once a day."
+        }
+    },
+    {
+        "identifier": null,
+        "label": "stale aktualizowane",
+        "extra": {
+            "description": "The event repeats without interruption."
+        }
+    },
+    {
+        "identifier": "http:\/\/purl.org\/cld\/freq\/irregular",
+        "label": "rendszertelen",
+        "extra": {
+            "description": "The event occurs at uneven intervals."
+        }
+    },
+    {
+        "identifier": null,
+        "label": "sconosciuto",
+        "extra": {
+            "description": "The event occurs with unknown regularity."
+        }
+    },
+    {
+        "identifier": null,
+        "label": "overige",
+        "extra": {
+            "description": "The event occurs with another type of regularity (for instance, every leap year)."
+        }
+    },
+    {
+        "identifier": null,
+        "label": "dvakrat dnevno",
+        "extra": {
+            "description": "The event occurs twice a day."
+        }
+    },
+    {
+        "identifier": "http:\/\/purl.org\/cld\/freq\/continuous",
+        "label": "stalno",
+        "extra": {
+            "description": "The item is updated more frequent than daily."
+        }
+    },
+    {
+        "identifier": null,
+        "label": "nikoli",
+        "extra": {
+            "description": "The item is never updated."
+        }
+    }
+]

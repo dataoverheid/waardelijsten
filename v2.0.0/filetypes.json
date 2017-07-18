@@ -1,0 +1,1073 @@
+[
+    {
+        "identifier": "TAR",
+        "label": "Tape Archive",
+        "extra": {
+            "internet-media-type": "application\/x-tar",
+            "file-extension": ".tar"
+        }
+    },
+    {
+        "identifier": "GZIP",
+        "label": "GNU zip",
+        "extra": {
+            "internet-media-type": "application\/x-gzip",
+            "file-extension": ".gz"
+        }
+    },
+    {
+        "identifier": "ZIP",
+        "label": "ZIP",
+        "extra": {
+            "internet-media-type": "application\/zip",
+            "file-extension": ".zip"
+        }
+    },
+    {
+        "identifier": "AZW",
+        "label": "Amazon Kindle eBook format",
+        "extra": {
+            "internet-media-type": "application\/vnd.amazon.ebook",
+            "file-extension": ".azw"
+        }
+    },
+    {
+        "identifier": "EPUB",
+        "label": "eBook standard of the International Digital Publishing Forum (IDPF)",
+        "extra": {
+            "internet-media-type": "application\/epub+zip",
+            "file-extension": ".epub"
+        }
+    },
+    {
+        "identifier": "MOBI",
+        "label": "Mobipocket eBook format",
+        "extra": {
+            "internet-media-type": "application\/x-mobipocket-ebook",
+            "file-extension": [
+                ".mobi",
+                ".prc"
+            ]
+        }
+    },
+    {
+        "identifier": "GIF",
+        "label": "Graphics Interchange Format",
+        "extra": {
+            "internet-media-type": "image\/gif",
+            "file-extension": ".gif"
+        }
+    },
+    {
+        "identifier": "JPEG",
+        "label": "JPEG",
+        "extra": {
+            "internet-media-type": "image\/jpeg",
+            "file-extension": [
+                ".jpeg",
+                ".jpg"
+            ]
+        }
+    },
+    {
+        "identifier": "TIFF",
+        "label": "Tagged Image Format File",
+        "extra": {
+            "internet-media-type": "image\/tiff",
+            "file-extension": [
+                ".tiff",
+                ".tif"
+            ]
+        }
+    },
+    {
+        "identifier": "PNG",
+        "label": "Portable Network Graphics",
+        "extra": {
+            "internet-media-type": "image\/png",
+            "file-extension": ".png"
+        }
+    },
+    {
+        "identifier": "EPS",
+        "label": "Encapsulated Postscript",
+        "extra": {
+            "internet-media-type": "application\/postscript",
+            "file-extension": ".eps"
+        }
+    },
+    {
+        "identifier": "CSS",
+        "label": "Cascading Style Sheet",
+        "extra": {
+            "internet-media-type": "text\/css",
+            "file-extension": ".css"
+        }
+    },
+    {
+        "identifier": "PDF",
+        "label": "Portable Document Format",
+        "extra": {
+            "internet-media-type": "application\/pdf",
+            "file-extension": ".pdf"
+        }
+    },
+    {
+        "identifier": "PDFA1A",
+        "label": "PDF archiving format, Level A conformance",
+        "extra": {
+            "internet-media-type": "application\/pdf",
+            "file-extension": ".pdf"
+        }
+    },
+    {
+        "identifier": "PDFA1B",
+        "label": "PDF archiving format, Level B conformance",
+        "extra": {
+            "internet-media-type": "application\/pdf",
+            "file-extension": ".pdf"
+        }
+    },
+    {
+        "identifier": "PDFX",
+        "label": "PDF printing format, Blind eXchange",
+        "extra": {
+            "internet-media-type": "application\/pdf",
+            "file-extension": ".pdf"
+        }
+    },
+    {
+        "identifier": "METS",
+        "label": "Metadata Encoding and Transmission Standard \u2013 Logical METS container",
+        "extra": {
+            "internet-media-type": "application\/xml",
+            "file-extension": ".xml"
+        }
+    },
+    {
+        "identifier": "METS_ZIP",
+        "label": "Metadata Encoding and Transmission Standard \u2013 Physical METS container",
+        "extra": {
+            "internet-media-type": "application\/zip",
+            "file-extension": ".zip"
+        }
+    },
+    {
+        "identifier": "PPSX",
+        "label": "PowerPoint Open XML Slide Show",
+        "extra": {
+            "internet-media-type": "application\/vnd.openxmlformats-officedocument.presentationml.slideshow",
+            "file-extension": ".ppsx"
+        }
+    },
+    {
+        "identifier": "PPS",
+        "label": "Microsoft PowerPoint Slide Show",
+        "extra": {
+            "internet-media-type": "application\/vnd.ms-powerpoint",
+            "file-extension": ".pps"
+        }
+    },
+    {
+        "identifier": "PPT",
+        "label": "Microsoft PowerPoint Presentation",
+        "extra": {
+            "internet-media-type": "application\/vnd.ms-powerpoint",
+            "file-extension": ".ppt"
+        }
+    },
+    {
+        "identifier": "PPTX",
+        "label": "Office Open XML Presentation",
+        "extra": {
+            "internet-media-type": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+            "file-extension": ".pptx"
+        }
+    },
+    {
+        "identifier": "XLS",
+        "label": "Microsof Excel Workbook",
+        "extra": {
+            "internet-media-type": "application\/vnd.ms-excel",
+            "file-extension": ".xls"
+        }
+    },
+    {
+        "identifier": "XLSX",
+        "label": "Office Open XML Workbook",
+        "extra": {
+            "internet-media-type": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "file-extension": ".xlsx"
+        }
+    },
+    {
+        "identifier": "XSLFO",
+        "label": "Extensible Stylesheet Language \u2013 Formatting Objects",
+        "extra": {
+            "internet-media-type": "application\/xml",
+            "file-extension": ".fo"
+        }
+    },
+    {
+        "identifier": "XSLT",
+        "label": "Extensible Stylesheet Language Transformations",
+        "extra": {
+            "internet-media-type": "application\/xslt+xml",
+            "file-extension": [
+                ".xslt",
+                ".xsl"
+            ]
+        }
+    },
+    {
+        "identifier": "DTD_SGML",
+        "label": "SGML Document Type Definition (DTD)",
+        "extra": {
+            "internet-media-type": "application\/sgml",
+            "file-extension": ".dtd"
+        }
+    },
+    {
+        "identifier": "DTD_XML",
+        "label": "XML Document Type Definition (DTD)",
+        "extra": {
+            "internet-media-type": "application\/xml-dtd",
+            "file-extension": ".dtd"
+        }
+    },
+    {
+        "identifier": "SCHEMA_XML",
+        "label": "XML Schema",
+        "extra": {
+            "internet-media-type": "application\/xml",
+            "file-extension": ".xsd"
+        }
+    },
+    {
+        "identifier": "FMX2",
+        "label": "Formalized Exchange of Electronic Publications (Formex), version 2",
+        "extra": {
+            "internet-media-type": "text\/sgml",
+            "file-extension": ".xml"
+        }
+    },
+    {
+        "identifier": "FMX3",
+        "label": "Formalized Exchange of Electronic Publications (Formex), version 3",
+        "extra": {
+            "internet-media-type": "text\/sgml",
+            "file-extension": ".xml"
+        }
+    },
+    {
+        "identifier": "FMX4",
+        "label": "Formalized Exchange of Electronic Publications (Formex), version 4",
+        "extra": {
+            "internet-media-type": "application\/xml",
+            "file-extension": ".xml"
+        }
+    },
+    {
+        "identifier": "RDF_XML",
+        "label": "Resource Description Framework XML syntax",
+        "extra": {
+            "internet-media-type": "application\/rdf+xml",
+            "file-extension": ".rdf"
+        }
+    },
+    {
+        "identifier": "RDF_TURTLE",
+        "label": "Terse RDF Triple Language",
+        "extra": {
+            "internet-media-type": "text\/turtle",
+            "file-extension": ".ttl"
+        }
+    },
+    {
+        "identifier": "SGML",
+        "label": "Standard Generalized Mark-up Language",
+        "extra": {
+            "internet-media-type": "text\/sgml",
+            "file-extension": [
+                ".sgml",
+                ".sgm"
+            ]
+        }
+    },
+    {
+        "identifier": "SKOS_XML",
+        "label": "Simple Knowledge Organization System",
+        "extra": {
+            "internet-media-type": "application\/rdf+xml",
+            "file-extension": ".rdf"
+        }
+    },
+    {
+        "identifier": "OWL",
+        "label": "Web Ontology Language",
+        "extra": {
+            "internet-media-type": "application\/owl+xml",
+            "file-extension": [
+                ".owl",
+                ".owx",
+                ".rdf"
+            ]
+        }
+    },
+    {
+        "identifier": "XML",
+        "label": "Extensible Markup Language",
+        "extra": {
+            "internet-media-type": "application\/xml",
+            "file-extension": ".xml"
+        }
+    },
+    {
+        "identifier": "SPARQLQ",
+        "label": "SPARQL Query",
+        "extra": {
+            "internet-media-type": "application\/sparql-query",
+            "file-extension": [
+                ".sparqlq",
+                ".rq"
+            ]
+        }
+    },
+    {
+        "identifier": "SPARQLQRES",
+        "label": "SPARQL Query Results",
+        "extra": {
+            "internet-media-type": "application\/sparql-results+xml",
+            "file-extension": [
+                ".sparqlqr",
+                ".srx"
+            ]
+        }
+    },
+    {
+        "identifier": "DOC",
+        "label": "Microsoft Word",
+        "extra": {
+            "internet-media-type": "application\/msword",
+            "file-extension": ".doc"
+        }
+    },
+    {
+        "identifier": "DOCX",
+        "label": "Office Open XML Document",
+        "extra": {
+            "internet-media-type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "file-extension": ".docx"
+        }
+    },
+    {
+        "identifier": "ODT",
+        "label": "Open Document Text",
+        "extra": {
+            "internet-media-type": "application\/vnd.oasis.opendocument.text",
+            "file-extension": ".odt"
+        }
+    },
+    {
+        "identifier": "TXT",
+        "label": "Text file",
+        "extra": {
+            "internet-media-type": "text\/plain",
+            "file-extension": ".txt"
+        }
+    },
+    {
+        "identifier": "RTF",
+        "label": "Rich Text Format File",
+        "extra": {
+            "internet-media-type": "text\/rtf",
+            "file-extension": ".rtf"
+        }
+    },
+    {
+        "identifier": "HTML",
+        "label": "HyperText Mark-up Language",
+        "extra": {
+            "internet-media-type": "text\/html",
+            "file-extension": [
+                ".html",
+                ".htm"
+            ]
+        }
+    },
+    {
+        "identifier": "XHTML",
+        "label": "Extensible Hypertext Markup Language",
+        "extra": {
+            "internet-media-type": "application\/xhtml+xml",
+            "file-extension": [
+                ".html",
+                ".htm",
+                ".xhtml",
+                ".xht"
+            ]
+        }
+    },
+    {
+        "identifier": "CSV",
+        "label": "Comma-Separated Values",
+        "extra": {
+            "internet-media-type": "text\/csv",
+            "file-extension": ".csv"
+        }
+    },
+    {
+        "identifier": "MDB",
+        "label": "Microsoft Access Database",
+        "extra": {
+            "internet-media-type": "application\/x-msaccess",
+            "file-extension": ".mdb"
+        }
+    },
+    {
+        "identifier": "DBF",
+        "label": "dBase File",
+        "extra": {
+            "internet-media-type": "application\/x-dbase",
+            "file-extension": ".dbf"
+        }
+    },
+    {
+        "identifier": "MOP",
+        "label": "MOPAC Input Format",
+        "extra": {
+            "internet-media-type": "chemical\/x-mopac-input",
+            "file-extension": ".mop"
+        }
+    },
+    {
+        "identifier": "E00",
+        "label": "ESRI Arc\/Info interchange file",
+        "extra": {
+            "internet-media-type": "application\/x-e00",
+            "file-extension": ".e00"
+        }
+    },
+    {
+        "identifier": "MXD",
+        "label": "ArcGIS Map Document",
+        "extra": {
+            "internet-media-type": "application\/x-mxd",
+            "file-extension": ".mxd"
+        }
+    },
+    {
+        "identifier": "KML",
+        "label": "Keyhole Markup Language",
+        "extra": {
+            "internet-media-type": "application\/vnd.google-earth.kml+xml",
+            "file-extension": ".kml"
+        }
+    },
+    {
+        "identifier": "TSV",
+        "label": "Tab-Separated Value",
+        "extra": {
+            "internet-media-type": "text\/tab-separated-values",
+            "file-extension": [
+                ".tsv",
+                ".tab"
+            ]
+        }
+    },
+    {
+        "identifier": "JSON",
+        "label": "JavaScript Object Notation",
+        "extra": {
+            "internet-media-type": "application\/json",
+            "file-extension": ".json"
+        }
+    },
+    {
+        "identifier": "KMZ",
+        "label": "Keyhole Markup Language, Zipped",
+        "extra": {
+            "internet-media-type": "application\/vnd.google-earth.kmz",
+            "file-extension": ".kmz"
+        }
+    },
+    {
+        "identifier": "GML",
+        "label": "Geography Markup Language",
+        "extra": {
+            "internet-media-type": "application\/gml+xml",
+            "file-extension": ".gml .xml"
+        }
+    },
+    {
+        "identifier": "RSS",
+        "label": "Really Simple Syndication",
+        "extra": {
+            "internet-media-type": "application\/rss+xml",
+            "file-extension": [
+                ".rss",
+                ".xml"
+            ]
+        }
+    },
+    {
+        "identifier": "ODS",
+        "label": "OpenDocument Spreadsheet",
+        "extra": {
+            "internet-media-type": "application\/vnd.oasis.opendocument.spreadsheet",
+            "file-extension": ".ods"
+        }
+    },
+    {
+        "identifier": "INDD",
+        "label": "Adobe InDesign Document",
+        "extra": {
+            "internet-media-type": "application\/x-indesign",
+            "file-extension": ".indd"
+        }
+    },
+    {
+        "identifier": "PSD",
+        "label": "Adobe Photoshop Document",
+        "extra": {
+            "internet-media-type": "application\/x-photoshop",
+            "file-extension": ".psd"
+        }
+    },
+    {
+        "identifier": "PS",
+        "label": "PostScript File",
+        "extra": {
+            "internet-media-type": "application\/postscript",
+            "file-extension": ".ps"
+        }
+    },
+    {
+        "identifier": "ODF",
+        "label": "OpenDocument Format",
+        "extra": {
+            "internet-media-type": "application\/octet-stream",
+            "file-extension": ".odf"
+        }
+    },
+    {
+        "identifier": "TAR_XZ",
+        "label": "XZ Compressed Tar Archive",
+        "extra": {
+            "internet-media-type": "application\/x-compressed",
+            "file-extension": ".tar.xz"
+        }
+    },
+    {
+        "identifier": "TAR_GZ",
+        "label": "Compressed Tarball File",
+        "extra": {
+            "internet-media-type": "application\/gnutar",
+            "file-extension": ".tar.gz"
+        }
+    },
+    {
+        "identifier": "RDF",
+        "label": "Resource Description Framework (RDF)",
+        "extra": {
+            "internet-media-type": "application\/rdf+xml",
+            "file-extension": ".rdf"
+        }
+    },
+    {
+        "identifier": "XLIFF",
+        "label": "XML Localisation Interchange File Format",
+        "extra": {
+            "internet-media-type": "application\/xliff+xml",
+            "file-extension": ".xlf"
+        }
+    },
+    {
+        "identifier": "OVF",
+        "label": "Open Virtualization Format",
+        "extra": {
+            "internet-media-type": "application\/ovf",
+            "file-extension": ".ovf"
+        }
+    },
+    {
+        "identifier": "JSON_LD",
+        "label": "JavaScript Object Notation for Linked Data",
+        "extra": {
+            "internet-media-type": "application\/ld+json",
+            "file-extension": ".jsonld"
+        }
+    },
+    {
+        "identifier": "RDF_N_TRIPLES",
+        "label": "Resource Description Framework N-Triples",
+        "extra": {
+            "internet-media-type": "application\/n-triples",
+            "file-extension": ".nt"
+        }
+    },
+    {
+        "identifier": "HDF",
+        "label": "Hierarchical Data Format",
+        "extra": {
+            "internet-media-type": "application\/x-hdf",
+            "file-extension": [
+                ".hdf",
+                ".h4",
+                ".hdf4",
+                ".he2",
+                ".h5",
+                ".hdf5",
+                ".he5"
+            ]
+        }
+    },
+    {
+        "identifier": "NETCDF",
+        "label": "Network Common Data Form",
+        "extra": {
+            "internet-media-type": "application\/x-netcdf",
+            "file-extension": [
+                ".cdf",
+                ".nc"
+            ]
+        }
+    },
+    {
+        "identifier": "SDMX",
+        "label": "Statistical Data and Metadata eXchange",
+        "extra": {
+            "internet-media-type": [
+                "application\/EDIFACT",
+                "application\/xml"
+            ],
+            "file-extension": [
+                ".edi",
+                ".xml"
+            ]
+        }
+    },
+    {
+        "identifier": "JPEG2000",
+        "label": "Joint Photographic Experts Group 2000",
+        "extra": {
+            "internet-media-type": "image\/jp2",
+            "file-extension": [
+                ".jp2",
+                ".jpg2"
+            ]
+        }
+    },
+    {
+        "identifier": "SHP",
+        "label": "Environmental Systems Research Institute Shape",
+        "extra": {
+            "internet-media-type": "application\/x-shapefile",
+            "file-extension": [
+                ".shp",
+                ".shx",
+                ".dbf"
+            ]
+        }
+    },
+    {
+        "identifier": "GDB",
+        "label": "Environmental Systems Research Institute File Geodatabase",
+        "extra": {
+            "internet-media-type": "application\/x-filegdb",
+            "file-extension": ".gdb"
+        }
+    },
+    {
+        "identifier": "GMZ",
+        "label": "Zipped Geography Markup Language",
+        "extra": {
+            "internet-media-type": "application\/x-gmz",
+            "file-extension": ".gmz"
+        }
+    },
+    {
+        "identifier": "ECW",
+        "label": "Enhanced Compressed Wavelet",
+        "extra": {
+            "internet-media-type": "application\/x-ecw",
+            "file-extension": ".ecw"
+        }
+    },
+    {
+        "identifier": "GRID_ASCII",
+        "label": "Environmental Systems Research Institute ASCII grid",
+        "extra": {
+            "internet-media-type": "application\/x-ascii-grid",
+            "file-extension": ".asc"
+        }
+    },
+    {
+        "identifier": "DMP",
+        "label": "Oracle Dump",
+        "extra": {
+            "internet-media-type": "application\/x-oracledump",
+            "file-extension": ".dmp"
+        }
+    },
+    {
+        "identifier": "LAS",
+        "label": "LASer file",
+        "extra": {
+            "internet-media-type": "application\/x-las",
+            "file-extension": ".las"
+        }
+    },
+    {
+        "identifier": "LAZ",
+        "label": "Compressed LASer file",
+        "extra": {
+            "internet-media-type": "application\/x-laz",
+            "file-extension": ".laz"
+        }
+    },
+    {
+        "identifier": "TAB",
+        "label": "MapInfo TAB file",
+        "extra": {
+            "internet-media-type": "application\/x-tab",
+            "file-extension": ".tab"
+        }
+    },
+    {
+        "identifier": "TAB_RSTR",
+        "label": "MapInfo TAB raster file",
+        "extra": {
+            "internet-media-type": "application\/x-tab-raster",
+            "file-extension": ".tab"
+        }
+    },
+    {
+        "identifier": "WORLD",
+        "label": "World file",
+        "extra": {
+            "internet-media-type": "application\/x-worldfile",
+            "file-extension": [
+                ".jgw",
+                ".tfw"
+            ]
+        }
+    },
+    {
+        "identifier": "TMX",
+        "label": "Translation Memory eXchange",
+        "extra": {
+            "internet-media-type": "application\/xml",
+            "file-extension": ".xml"
+        }
+    },
+    {
+        "identifier": "ATOM",
+        "label": "Atom Syndication Format",
+        "extra": {
+            "internet-media-type": "application\/atom+xml",
+            "file-extension": [
+                ".atom",
+                ".xml"
+            ]
+        }
+    },
+    {
+        "identifier": "OCTET",
+        "label": "Octet Stream",
+        "extra": {
+            "internet-media-type": "application\/octet-stream",
+            "file-extension": ".zoo"
+        }
+    },
+    {
+        "identifier": "BIN",
+        "label": "Binary Data",
+        "extra": {
+            "internet-media-type": "application\/octet-stream",
+            "file-extension": ".bin"
+        }
+    },
+    {
+        "identifier": "ODC",
+        "label": "OpenDocument Chart",
+        "extra": {
+            "internet-media-type": "application\/vnd.oasis.opendocument.chart",
+            "file-extension": ".odc"
+        }
+    },
+    {
+        "identifier": "ODB",
+        "label": "OpenDocument Database",
+        "extra": {
+            "internet-media-type": "application\/vnd.oasis.opendocument.database",
+            "file-extension": ".odb"
+        }
+    },
+    {
+        "identifier": "ODG",
+        "label": "OpenDocument Image",
+        "extra": {
+            "internet-media-type": "application\/vnd.oasis.opendocument.graphics",
+            "file-extension": ".odg"
+        }
+    },
+    {
+        "identifier": "BMP",
+        "label": "Bitmap Image File",
+        "extra": {
+            "internet-media-type": "image\/x-ms-bmp",
+            "file-extension": [
+                ".bm",
+                ".bmp",
+                ".dib"
+            ]
+        }
+    },
+    {
+        "identifier": "DCR",
+        "label": "DCR File",
+        "extra": {
+            "internet-media-type": "application\/x-director",
+            "file-extension": ".dcr"
+        }
+    },
+    {
+        "identifier": "XYZ",
+        "label": "XYZ Chemical File",
+        "extra": {
+            "internet-media-type": "chemical\/x-xyz",
+            "file-extension": ".xyz"
+        }
+    },
+    {
+        "identifier": "MAP_PRVW",
+        "label": "ArcGIS Map Preview",
+        "extra": {
+            "internet-media-type": "arcgis_map_preview",
+            "file-extension": null
+        }
+    },
+    {
+        "identifier": "MAP_SRVC",
+        "label": "ArcGIS Map Service",
+        "extra": {
+            "internet-media-type": "arcgis_map_service",
+            "file-extension": null
+        }
+    },
+    {
+        "identifier": "REST",
+        "label": "Esri Representational State Transfer",
+        "extra": {
+            "internet-media-type": "arcgis_rest",
+            "file-extension": null
+        }
+    },
+    {
+        "identifier": "MSG_HTTP",
+        "label": "HTTP Message Syntax and Routing",
+        "extra": {
+            "internet-media-type": "message\/http",
+            "file-extension": null
+        }
+    },
+    {
+        "identifier": "TIFF_FX",
+        "label": "Tagged Image Format File Fax eXtended",
+        "extra": {
+            "internet-media-type": "image\/tiff-fx",
+            "file-extension": [
+                ".tiff",
+                ".tif"
+            ]
+        }
+    },
+    {
+        "identifier": "PDF1X",
+        "label": "PDF printing format extension",
+        "extra": {
+            "internet-media-type": "application\/pdf",
+            "file-extension": ".pdf"
+        }
+    },
+    {
+        "identifier": "WARC_GZ",
+        "label": "Compressed Web Archive format",
+        "extra": {
+            "internet-media-type": "application\/warc",
+            "file-extension": ".warc.gz"
+        }
+    },
+    {
+        "identifier": "RDF_N_QUADS",
+        "label": "Resource Description Framework N-Quads",
+        "extra": {
+            "internet-media-type": "application\/n-quads",
+            "file-extension": ".nq"
+        }
+    },
+    {
+        "identifier": "RDF_TRIG",
+        "label": "Resource Description Framework TriG",
+        "extra": {
+            "internet-media-type": "application\/trig",
+            "file-extension": ".trig"
+        }
+    },
+    {
+        "identifier": "RDFA",
+        "label": "Resource Description Framework in Attributes",
+        "extra": {
+            "internet-media-type": "application\/rdfa",
+            "file-extension": ".rdfa"
+        }
+    },
+    {
+        "identifier": "ARC",
+        "label": "Compressed Archive format",
+        "extra": {
+            "internet-media-type": "application\/octet-stream",
+            "file-extension": [
+                ".arc",
+                ".ark",
+                ".sue"
+            ]
+        }
+    },
+    {
+        "identifier": "HTML_SIMPL",
+        "label": "HyperText Mark-up Language, simplified",
+        "extra": {
+            "internet-media-type": "text\/html",
+            "file-extension": [
+                ".html",
+                ".htm"
+            ]
+        }
+    },
+    {
+        "identifier": "XHTML_SIMPL",
+        "label": "Extensible Hypertext Markup Language, simplified",
+        "extra": {
+            "internet-media-type": "application\/xhtml+xml",
+            "file-extension": [
+                ".html",
+                ".htm",
+                ".xhtml",
+                ".xht"
+            ]
+        }
+    },
+    {
+        "identifier": "SQL",
+        "label": "Structured Query Language",
+        "extra": {
+            "internet-media-type": "application\/sql",
+            "file-extension": ".sql"
+        }
+    },
+    {
+        "identifier": "PDFA2A",
+        "label": "PDF\/A-2a",
+        "extra": {
+            "internet-media-type": "application\/pdf",
+            "file-extension": ".pdf"
+        }
+    },
+    {
+        "identifier": "PDFA2B",
+        "label": "PDF\/A-2b",
+        "extra": {
+            "internet-media-type": "application\/pdf",
+            "file-extension": ".pdf"
+        }
+    },
+    {
+        "identifier": "PDFA3",
+        "label": "PDFA-3",
+        "extra": {
+            "internet-media-type": "application\/pdf",
+            "file-extension": ".pdf"
+        }
+    },
+    {
+        "identifier": "MBOX",
+        "label": "Mbox",
+        "extra": {
+            "internet-media-type": "application\/mbox",
+            "file-extension": ".mbox"
+        }
+    },
+    {
+        "identifier": "MPEG2",
+        "label": "Moving Picture Experts Group 2",
+        "extra": {
+            "internet-media-type": [
+                "audio\/mpeg",
+                "video\/mpeg"
+            ],
+            "file-extension": [
+                ".mpeg",
+                "mpg",
+                "m2v",
+                "mp2",
+                "mp3"
+            ]
+        }
+    },
+    {
+        "identifier": "MPEG4",
+        "label": "Moving Picture Experts Group 4",
+        "extra": {
+            "internet-media-type": [
+                "application\/mp4",
+                "audio\/mp4",
+                "video\/mp4"
+            ],
+            "file-extension": [
+                ".mpeg",
+                "mpg",
+                "mp4"
+            ]
+        }
+    },
+    {
+        "identifier": "MPEG4_AVC",
+        "label": "Moving Picture Experts Group 4 Advanced Video Coding",
+        "extra": {
+            "internet-media-type": [
+                "application\/mp4",
+                "audio\/mp4",
+                "video\/mp4"
+            ],
+            "file-extension": [
+                ".mpeg",
+                "mpg",
+                "mp4"
+            ]
+        }
+    },
+    {
+        "identifier": "BWF",
+        "label": "Broadcast Wave File",
+        "extra": {
+            "internet-media-type": "audio\/vnd.wave",
+            "file-extension": [
+                ".bwf",
+                ".wav"
+            ]
+        }
+    },
+    {
+        "identifier": "MHTML",
+        "label": "MIME HTML",
+        "extra": {
+            "internet-media-type": "message\/html",
+            "file-extension": [
+                ".mhtml",
+                ".mht"
+            ]
+        }
+    }
+]

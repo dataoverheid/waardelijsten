@@ -1,0 +1,13 @@
+{
+    "continu": "http://purl.org/cld/freq/continuous",
+    "dagelijks": "http://purl.org/cld/freq/daily",
+    "wekelijks": "http://purl.org/cld/freq/weekly",
+    "tweewekelijks": "http://purl.org/cld/freq/biweekly",
+    "maandelijks": "http://purl.org/cld/freq/monthly",
+    "eensperkwartaal": "http://purl.org/cld/freq/quarterly",
+    "halfjaarlijks": "http://purl.org/cld/freq/semiannual",
+    "jaarlijks": "http://purl.org/cld/freq/annual",
+    "tweejaarlijks": "http://purl.org/cld/freq/biennial",
+    "driejaarlijks": "http://purl.org/cld/freq/triennial",
+    "onregelmatig": "http://purl.org/cld/freq/irregular"
+}

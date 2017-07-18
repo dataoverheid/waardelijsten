@@ -1,0 +1,98 @@
+[
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Drenthe",
+        "label": "Drenthe",
+        "extra": {
+            "waardelijst": "overheid:Provincie",
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Flevoland",
+        "label": "Flevoland",
+        "extra": {
+            "waardelijst": "overheid:Provincie",
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Fryslan",
+        "label": "Frysl\u00e2n",
+        "extra": {
+            "waardelijst": "overheid:Provincie",
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Gelderland",
+        "label": "Gelderland",
+        "extra": {
+            "waardelijst": "overheid:Provincie",
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Groningen_(provincie)",
+        "label": "Groningen",
+        "extra": {
+            "waardelijst": "overheid:Provincie",
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Limburg",
+        "label": "Limburg",
+        "extra": {
+            "waardelijst": "overheid:Provincie",
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Noord-Brabant",
+        "label": "Noord-Brabant",
+        "extra": {
+            "waardelijst": "overheid:Provincie",
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Noord-Holland",
+        "label": "Noord-Holland",
+        "extra": {
+            "waardelijst": "overheid:Provincie",
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Overijssel",
+        "label": "Overijssel",
+        "extra": {
+            "waardelijst": "overheid:Provincie",
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Utrecht_(provincie)",
+        "label": "Utrecht",
+        "extra": {
+            "waardelijst": "overheid:Provincie",
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Zeeland_(provincie)",
+        "label": "Zeeland",
+        "extra": {
+            "waardelijst": "overheid:Provincie",
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Zuid-Holland",
+        "label": "Zuid-Holland",
+        "extra": {
+            "waardelijst": "overheid:Provincie",
+            "endDate": null
+        }
+    }
+]

@@ -1,0 +1,4529 @@
+[
+    {
+        "identifier": "http:\/\/data.overheid.nl\/organisatie\/3TUDatacenter",
+        "label": "3TU.Datacentrum",
+        "extra": {
+            "waardelijst": "donl:Agent"
+        }
+    },
+    {
+        "identifier": "http:\/\/data.overheid.nl\/organisatie\/adviescollege_minbzk",
+        "label": "Adviescollege",
+        "extra": {
+            "waardelijst": "donl:Agent"
+        }
+    },
+    {
+        "identifier": "http:\/\/data.overheid.nl\/organisatie\/agrifood",
+        "label": "AgriFood Capital",
+        "extra": {
+            "waardelijst": "donl:Agent"
+        }
+    },
+    {
+        "identifier": "http:\/\/data.overheid.nl\/organisatie\/alterra",
+        "label": "Alterra",
+        "extra": {
+            "waardelijst": "donl:Agent"
+        }
+    },
+    {
+        "identifier": "http:\/\/data.overheid.nl\/organisatie\/arcadis",
+        "label": "Arcadis",
+        "extra": {
+            "waardelijst": "donl:Agent"
+        }
+    },
+    {
+        "identifier": "http:\/\/data.overheid.nl\/organisatie\/arcgis",
+        "label": "Arcgis namens gemeente Arnhem",
+        "extra": {
+            "waardelijst": "donl:Agent"
+        }
+    },
+    {
+        "identifier": "http:\/\/data.overheid.nl\/organisatie\/bij12",
+        "label": "BIJ12",
+        "extra": {
+            "waardelijst": "donl:Agent"
+        }
+    },
+    {
+        "identifier": "http:\/\/data.overheid.nl\/organisatie\/BHIC",
+        "label": "Brabant Historisch Informatiecentrum",
+        "extra": {
+            "waardelijst": "donl:Agent"
+        }
+    },
+    {
+        "identifier": "http:\/\/data.overheid.nl\/organisatie\/CBR",
+        "label": "CBR",
+        "extra": {
+            "waardelijst": "donl:Agent"
+        }
+    },
+    {
+        "identifier": "http:\/\/data.overheid.nl\/organisatie\/columby",
+        "label": "Columby",
+        "extra": {
+            "waardelijst": "donl:Agent"
+        }
+    },
+    {
+        "identifier": "http:\/\/data.overheid.nl\/organisatie\/deltares",
+        "label": "Deltares",
+        "extra": {
+            "waardelijst": "donl:Agent"
+        }
+    },
+    {
+        "identifier": "http:\/\/data.overheid.nl\/organisatie\/enexis",
+        "label": "Enexis",
+        "extra": {
+            "waardelijst": "donl:Agent"
+        }
+    },
+    {
+        "identifier": "http:\/\/data.overheid.nl\/organisatie\/erfgoedleiden",
+        "label": "Erfgoed Leiden en Omstreken",
+        "extra": {
+            "waardelijst": "donl:Agent"
+        }
+    },
+    {
+        "identifier": "http:\/\/data.overheid.nl\/organisatie\/etil",
+        "label": "Etil",
+        "extra": {
+            "waardelijst": "donl:Agent"
+        }
+    },
+    {
+        "identifier": "http:\/\/data.overheid.nl\/organisatie\/odn",
+        "label": "Europese Commissie",
+        "extra": {
+            "waardelijst": "donl:Agent"
+        }
+    },
+    {
+        "identifier": "http:\/\/data.overheid.nl\/organisatie\/fugro",
+        "label": "Fugro",
+        "extra": {
+            "waardelijst": "donl:Agent"
+        }
+    },
+    {
+        "identifier": "http:\/\/data.overheid.nl\/organisatie\/gemgids",
+        "label": "GemGids",
+        "extra": {
+            "waardelijst": "donl:Agent"
+        }
+    },
+    {
+        "identifier": "http:\/\/data.overheid.nl\/organisatie\/geonovum",
+        "label": "Geonovum",
+        "extra": {
+            "waardelijst": "donl:Agent"
+        }
+    },
+    {
+        "identifier": "http:\/\/data.overheid.nl\/organisatie\/cak",
+        "label": "Het CAK",
+        "extra": {
+            "waardelijst": "donl:Agent"
+        }
+    },
+    {
+        "identifier": "http:\/\/data.overheid.nl\/organisatie\/iftech",
+        "label": "IF technology",
+        "extra": {
+            "waardelijst": "donl:Agent"
+        }
+    },
+    {
+        "identifier": "http:\/\/data.overheid.nl\/organisatie\/Instituut-Fysieke-Veiligheid",
+        "label": "Instituut Fysieke Veiligheid",
+        "extra": {
+            "waardelijst": "donl:Agent"
+        }
+    },
+    {
+        "identifier": "http:\/\/data.overheid.nl\/organisatie\/ifv",
+        "label": "Instituut Fysieke Veiligheid",
+        "extra": {
+            "waardelijst": "donl:Agent"
+        }
+    },
+    {
+        "identifier": "http:\/\/data.overheid.nl\/organisatie\/koop",
+        "label": "KOOP (Netherlands publication office)",
+        "extra": {
+            "waardelijst": "donl:Agent"
+        }
+    },
+    {
+        "identifier": "http:\/\/data.overheid.nl\/organisatie\/liander",
+        "label": "Liander",
+        "extra": {
+            "waardelijst": "donl:Agent"
+        }
+    },
+    {
+        "identifier": "http:\/\/data.overheid.nl\/organisatie\/NLPO:12345678",
+        "label": "Nederlands Instituut voor Beeld en Geluid",
+        "extra": {
+            "waardelijst": "donl:Agent"
+        }
+    },
+    {
+        "identifier": "http:\/\/data.overheid.nl\/organisatie\/nederlands-lucht-en-ruimtevaartcentrum",
+        "label": "Nederlands Lucht- en Ruimtevaartcentrum (NLR)",
+        "extra": {
+            "waardelijst": "donl:Agent"
+        }
+    },
+    {
+        "identifier": "http:\/\/data.overheid.nl\/organisatie\/nza",
+        "label": "Nederlandse Zorgautoriteit",
+        "extra": {
+            "waardelijst": "donl:Agent"
+        }
+    },
+    {
+        "identifier": "http:\/\/data.overheid.nl\/organisatie\/PDOK",
+        "label": "PDOK",
+        "extra": {
+            "waardelijst": "donl:Agent"
+        }
+    },
+    {
+        "identifier": "http:\/\/data.overheid.nl\/organisatie\/prorail",
+        "label": "Prorail",
+        "extra": {
+            "waardelijst": "donl:Agent"
+        }
+    },
+    {
+        "identifier": "http:\/\/data.overheid.nl\/organisatie\/raadvoorderechtspraak",
+        "label": "Raad voor de Rechtspraak",
+        "extra": {
+            "waardelijst": "donl:Agent"
+        }
+    },
+    {
+        "identifier": "http:\/\/data.overheid.nl\/organisatie\/RAA",
+        "label": "Regionaal Archief Alkmaar",
+        "extra": {
+            "waardelijst": "donl:Agent"
+        }
+    },
+    {
+        "identifier": "http:\/\/data.overheid.nl\/organisatie\/rijksvastgoed",
+        "label": "Rijksvastgoedbedrijf",
+        "extra": {
+            "waardelijst": "donl:Agent"
+        }
+    },
+    {
+        "identifier": "http:\/\/data.overheid.nl\/organisatie\/stadsarchiefrotterdam",
+        "label": "Stadsarchief Rotterdam",
+        "extra": {
+            "waardelijst": "donl:Agent"
+        }
+    },
+    {
+        "identifier": "http:\/\/data.overheid.nl\/organisatie\/sthisbo",
+        "label": "Stichting Historisch Boerderij Onderzoek",
+        "extra": {
+            "waardelijst": "donl:Agent"
+        }
+    },
+    {
+        "identifier": "http:\/\/data.overheid.nl\/organisatie\/stwanet",
+        "label": "Stichting Wandelnet",
+        "extra": {
+            "waardelijst": "donl:Agent"
+        }
+    },
+    {
+        "identifier": "http:\/\/data.overheid.nl\/organisatie\/tenderned",
+        "label": "Tenderned",
+        "extra": {
+            "waardelijst": "donl:Agent"
+        }
+    },
+    {
+        "identifier": "http:\/\/data.overheid.nl\/organisatie\/wageningen-ur",
+        "label": "Wageningen UR",
+        "extra": {
+            "waardelijst": "donl:Agent"
+        }
+    },
+    {
+        "identifier": "http:\/\/data.overheid.nl\/organisatie\/zbo_minez",
+        "label": "ZBO",
+        "extra": {
+            "waardelijst": "donl:Agent"
+        }
+    },
+    {
+        "identifier": "http:\/\/data.overheid.nl\/organisatie\/zbo_socialezaken",
+        "label": "ZBO",
+        "extra": {
+            "waardelijst": "donl:Agent"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/'s-Graveland_(gemeente)",
+        "label": "'s-Graveland",
+        "extra": {
+            "endDate": "2001-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/'s-Gravendeel_(gemeente)",
+        "label": "'s-Gravendeel",
+        "extra": {
+            "endDate": "2006-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/'s-Gravenhage",
+        "label": "'s-Gravenhage",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/'s-Gravenzande_(gemeente)",
+        "label": "'s-Gravenzande",
+        "extra": {
+            "endDate": "2003-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/'s-Hertogenbosch",
+        "label": "'s-Hertogenbosch",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Aa_en_Hunze",
+        "label": "Aa en Hunze",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Aalburg_(gemeente)",
+        "label": "Aalburg",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Aalsmeer_(gemeente)",
+        "label": "Aalsmeer",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Aalten_(gemeente)",
+        "label": "Aalten",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Abcoude_(gemeente)",
+        "label": "Abcoude",
+        "extra": {
+            "endDate": "2010-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Achtkarspelen",
+        "label": "Achtkarspelen",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Akersloot_(gemeente)",
+        "label": "Akersloot",
+        "extra": {
+            "endDate": "2001-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Alblasserdam_(gemeente)",
+        "label": "Alblasserdam",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Albrandswaard",
+        "label": "Albrandswaard",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Alkemade_(gemeente)",
+        "label": "Alkemade",
+        "extra": {
+            "endDate": "2008-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Alkmaar_(gemeente)",
+        "label": "Alkmaar",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Almelo",
+        "label": "Almelo",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Almere_(gemeente)",
+        "label": "Almere",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Alphen_aan_den_Rijn_(gemeente)",
+        "label": "Alphen aan den Rijn",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Alphen-Chaam",
+        "label": "Alphen-Chaam",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Ambt_Delden_(gemeente)",
+        "label": "Ambt Delden",
+        "extra": {
+            "endDate": "2000-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Ambt_Montfort",
+        "label": "Ambt Montfort",
+        "extra": {
+            "endDate": "2006-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Ameland",
+        "label": "Ameland",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Amerongen_(gemeente)",
+        "label": "Amerongen",
+        "extra": {
+            "endDate": "2005-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Amersfoort_(gemeente)",
+        "label": "Amersfoort",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Amstelveen_(gemeente)",
+        "label": "Amstelveen",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Amsterdam",
+        "label": "Amsterdam",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Andijk_(gemeente)",
+        "label": "Andijk",
+        "extra": {
+            "endDate": "2010-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Angerlo_(gemeente)",
+        "label": "Angerlo",
+        "extra": {
+            "endDate": "2004-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Anna_Paulowna_(gemeente)",
+        "label": "Anna Paulowna",
+        "extra": {
+            "endDate": "2011-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Apeldoorn_(gemeente)",
+        "label": "Apeldoorn",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Appingedam_(gemeente)",
+        "label": "Appingedam",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Arcen_en_Velden_(gemeente)",
+        "label": "Arcen en Velden",
+        "extra": {
+            "endDate": "2009-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Arnhem_(gemeente)",
+        "label": "Arnhem",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Assen_(gemeente)",
+        "label": "Assen",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Asten_(gemeente)",
+        "label": "Asten",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Avereest_(gemeente)",
+        "label": "Avereest",
+        "extra": {
+            "endDate": "2000-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Axel_(gemeente)",
+        "label": "Axel",
+        "extra": {
+            "endDate": "2002-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Baarle-Nassau_(gemeente)",
+        "label": "Baarle-Nassau",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Baarn_(gemeente)",
+        "label": "Baarn",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Barendrecht_(gemeente)",
+        "label": "Barendrecht",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Barneveld_(gemeente)",
+        "label": "Barneveld",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Bathmen_(gemeente)",
+        "label": "Bathmen",
+        "extra": {
+            "endDate": "2004-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Bedum_(gemeente)",
+        "label": "Bedum",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Beek_(gemeente)",
+        "label": "Beek",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Beemster_(gemeente)",
+        "label": "Beemster",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Beesel_(gemeente)",
+        "label": "Beesel",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Belfeld_(gemeente)",
+        "label": "Belfeld",
+        "extra": {
+            "endDate": "2000-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Bellingwedde",
+        "label": "Bellingwedde",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Bemmel_(gemeente)",
+        "label": "Bemmel",
+        "extra": {
+            "endDate": "2002-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Bennebroek_(gemeente)",
+        "label": "Bennebroek",
+        "extra": {
+            "endDate": "2008-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Berg_en_Dal",
+        "label": "Berg en Dal",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Bergambacht_(gemeente)",
+        "label": "Bergambacht",
+        "extra": {
+            "endDate": "2014-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Bergeijk_(gemeente)",
+        "label": "Bergeijk",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Bergen_(Li)",
+        "label": "Bergen (L)",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Bergen_oud",
+        "label": "Bergen (Li)",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Bergen_(NH)",
+        "label": "Bergen (NH)",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Bergen_op_Zoom_(gemeente)",
+        "label": "Bergen op Zoom",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Bergh_(gemeente)",
+        "label": "Bergh",
+        "extra": {
+            "endDate": "2004-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Bergschenhoek_(gemeente)",
+        "label": "Bergschenhoek",
+        "extra": {
+            "endDate": "2006-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Berkel_en_Rodenrijs_(gemeente)",
+        "label": "Berkel en Rodenrijs",
+        "extra": {
+            "endDate": "2006-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Berkelland",
+        "label": "Berkelland",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Bernheze",
+        "label": "Bernheze",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Bernisse_(gemeente)",
+        "label": "Bernisse",
+        "extra": {
+            "endDate": "2014-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Best_(gemeente)",
+        "label": "Best",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Beuningen_(gemeente)",
+        "label": "Beuningen",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Beverwijk_(gemeente)",
+        "label": "Beverwijk",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Binnenmaas",
+        "label": "Binnenmaas",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Bladel_(gemeente)",
+        "label": "Bladel",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Blaricum_(gemeente)",
+        "label": "Blaricum",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Bleiswijk_(gemeente)",
+        "label": "Bleiswijk",
+        "extra": {
+            "endDate": "2006-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Bloemendaal_(gemeente)",
+        "label": "Bloemendaal",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Boarnsterhim",
+        "label": "Boarnsterhim",
+        "extra": {
+            "endDate": "2013-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Bodegraven",
+        "label": "Bodegraven",
+        "extra": {
+            "endDate": "2010-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Bodegraven-Reeuwijk",
+        "label": "Bodegraven-Reeuwijk",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Boekel_(gemeente)",
+        "label": "Boekel",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Bolsward_(gemeente)",
+        "label": "Bolsward",
+        "extra": {
+            "endDate": "2010-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Borculo_(gemeente)",
+        "label": "Borculo",
+        "extra": {
+            "endDate": "2004-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Borger-Odoorn",
+        "label": "Borger-Odoorn",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Born_(gemeente)",
+        "label": "Born",
+        "extra": {
+            "endDate": "2000-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Borne_(gemeente)",
+        "label": "Borne",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Borsele_(gemeente)",
+        "label": "Borsele",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Boskoop_(gemeente)",
+        "label": "Boskoop",
+        "extra": {
+            "endDate": "2013-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Boxmeer_(gemeente)",
+        "label": "Boxmeer",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Boxtel_(gemeente)",
+        "label": "Boxtel",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Breda_(gemeente)",
+        "label": "Breda",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Brederwiede_(gemeente)",
+        "label": "Brederwiede",
+        "extra": {
+            "endDate": "2000-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Breukelen_(gemeente)",
+        "label": "Breukelen",
+        "extra": {
+            "endDate": "2010-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Brielle_(gemeente)",
+        "label": "Brielle",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Broekhuizen_(gemeente)",
+        "label": "Broekhuizen",
+        "extra": {
+            "endDate": "2000-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Bronckhorst",
+        "label": "Bronckhorst",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Brummen",
+        "label": "Brummen",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Brunssum_(gemeente)",
+        "label": "Brunssum",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Bunnik_(gemeente)",
+        "label": "Bunnik",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Bunschoten_(gemeente)",
+        "label": "Bunschoten",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Buren_(gemeente)",
+        "label": "Buren",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Bussum_(gemeente)",
+        "label": "Bussum",
+        "extra": {
+            "endDate": "2015-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Capelle_aan_den_IJssel_(gemeente)",
+        "label": "Capelle aan den IJssel",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Castricum_(gemeente)",
+        "label": "Castricum",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Coevorden_(gemeente)",
+        "label": "Coevorden",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Cranendonck",
+        "label": "Cranendonck",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Cromstrijen",
+        "label": "Cromstrijen",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Cuijk_(gemeente)",
+        "label": "Cuijk",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Culemborg_(gemeente)",
+        "label": "Culemborg",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Dalfsen_(gemeente)",
+        "label": "Dalfsen",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Dantumadeel",
+        "label": "Dantumadeel",
+        "extra": {
+            "endDate": "2008-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Dantumadiel",
+        "label": "Dantumadiel",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/De_Bilt_(gemeente)",
+        "label": "De Bilt",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Friese_Meren",
+        "label": "De Friese Meren",
+        "extra": {
+            "endDate": "2015-06-30"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/De_Fryske_Marren",
+        "label": "De Fryske Marren",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/De_Lier_(gemeente)",
+        "label": "De Lier",
+        "extra": {
+            "endDate": "2003-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/De_Marne",
+        "label": "De Marne",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/De_Ronde_Venen",
+        "label": "De Ronde Venen",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/De_Wolden",
+        "label": "De Wolden",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Delft_(gemeente)",
+        "label": "Delft",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Delfzijl_(gemeente)",
+        "label": "Delfzijl",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Den_Ham_(gemeente)",
+        "label": "Den Ham",
+        "extra": {
+            "endDate": "2000-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Den_Helder_(gemeente)",
+        "label": "Den Helder",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Denekamp_(gemeente)",
+        "label": "Denekamp",
+        "extra": {
+            "endDate": "2002-05-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Deurne_(gemeente)",
+        "label": "Deurne",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Deventer_(gemeente)",
+        "label": "Deventer",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Didam_(gemeente)",
+        "label": "Didam",
+        "extra": {
+            "endDate": "2004-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Diemen_(gemeente)",
+        "label": "Diemen",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Diepenheim_(gemeente)",
+        "label": "Diepenheim",
+        "extra": {
+            "endDate": "2000-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Dinkelland",
+        "label": "Dinkelland",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Dinxperlo_(gemeente)",
+        "label": "Dinxperlo",
+        "extra": {
+            "endDate": "2004-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Dirksland_(gemeente)",
+        "label": "Dirksland",
+        "extra": {
+            "endDate": "2012-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Dodewaard_(gemeente)",
+        "label": "Dodewaard",
+        "extra": {
+            "endDate": "2001-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Doesburg_(gemeente)",
+        "label": "Doesburg",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Doetinchem",
+        "label": "Doetinchem",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Dongen_(gemeente)",
+        "label": "Dongen",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Dongeradeel",
+        "label": "Dongeradeel",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Doorn_(gemeente)",
+        "label": "Doorn",
+        "extra": {
+            "endDate": "2005-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Dordrecht_(gemeente)",
+        "label": "Dordrecht",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Drechterland_(gemeente)",
+        "label": "Drechterland",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Driebergen-Rijsenburg_(gemeente)",
+        "label": "Driebergen-Rijsenburg",
+        "extra": {
+            "endDate": "2005-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Drimmelen",
+        "label": "Drimmelen",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Dronten_(gemeente)",
+        "label": "Dronten",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Druten_(gemeente)",
+        "label": "Druten",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Duiven_(gemeente)",
+        "label": "Duiven",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Echt_(gemeente)",
+        "label": "Echt",
+        "extra": {
+            "endDate": "2002-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Echt-Susteren",
+        "label": "Echt-Susteren",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Echteld_(gemeente)",
+        "label": "Echteld",
+        "extra": {
+            "endDate": "2001-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Edam-Volendam",
+        "label": "Edam-Volendam",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Ede_(gemeente)",
+        "label": "Ede",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Eemnes_(gemeente)",
+        "label": "Eemnes",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Eemsmond",
+        "label": "Eemsmond",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Eersel_(gemeente)",
+        "label": "Eersel",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Egmond",
+        "label": "Egmond",
+        "extra": {
+            "endDate": "2000-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Eibergen_(gemeente)",
+        "label": "Eibergen",
+        "extra": {
+            "endDate": "2004-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Eijsden_(gemeente)",
+        "label": "Eijsden",
+        "extra": {
+            "endDate": "2010-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Eijsden-Margraten",
+        "label": "Eijsden-Margraten",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Eindhoven_(gemeente)",
+        "label": "Eindhoven",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Elburg_(gemeente)",
+        "label": "Elburg",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Elst_(gemeente)",
+        "label": "Elst",
+        "extra": {
+            "endDate": "2000-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Emmen_(gemeente)",
+        "label": "Emmen",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Enkhuizen_(gemeente)",
+        "label": "Enkhuizen",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Enschede_(gemeente)",
+        "label": "Enschede",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Epe",
+        "label": "Epe",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Ermelo_(gemeente)",
+        "label": "Ermelo",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Etten-Leur_(gemeente)",
+        "label": "Etten-Leur",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Ferwerderadiel",
+        "label": "Ferwerderadiel",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Franekeradeel",
+        "label": "Franekeradeel",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Gaasterlan-Sleat",
+        "label": "Gaasterl\u00e2n-Sleat",
+        "extra": {
+            "endDate": "2013-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Geertruidenberg_(gemeente)",
+        "label": "Geertruidenberg",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Geldermalsen_(gemeente)",
+        "label": "Geldermalsen",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Geldrop_(gemeente)",
+        "label": "Geldrop",
+        "extra": {
+            "endDate": "2003-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Geldrop-Mierlo",
+        "label": "Geldrop-Mierlo",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Geleen_(gemeente)",
+        "label": "Geleen",
+        "extra": {
+            "endDate": "2000-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Gemert-Bakel",
+        "label": "Gemert-Bakel",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Gendringen_(gemeente)",
+        "label": "Gendringen",
+        "extra": {
+            "endDate": "2004-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Gendt_(gemeente)",
+        "label": "Gendt",
+        "extra": {
+            "endDate": "2000-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Genemuiden_(gemeente)",
+        "label": "Genemuiden",
+        "extra": {
+            "endDate": "2000-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Gennep_(gemeente)",
+        "label": "Gennep",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Giessenlanden",
+        "label": "Giessenlanden",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Gilze_en_Rijen_(gemeente)",
+        "label": "Gilze en Rijen",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Goedereede_(gemeente)",
+        "label": "Goedereede",
+        "extra": {
+            "endDate": "2012-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Goeree-Overflakkee",
+        "label": "Goeree-Overflakkee",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Goes_(gemeente)",
+        "label": "Goes",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Goirle_(gemeente)",
+        "label": "Goirle",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Gooise_Meren",
+        "label": "Gooise Meren",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Goor_(gemeente)",
+        "label": "Goor",
+        "extra": {
+            "endDate": "2000-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Gorinchem_(gemeente)",
+        "label": "Gorinchem",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Gorssel_(gemeente)",
+        "label": "Gorssel",
+        "extra": {
+            "endDate": "2004-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Gouda_(gemeente)",
+        "label": "Gouda",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Graafstroom",
+        "label": "Graafstroom",
+        "extra": {
+            "endDate": "2012-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Graft-De_Rijp_(gemeente)",
+        "label": "Graft-De Rijp",
+        "extra": {
+            "endDate": "2014-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Gramsbergen_(gemeente)",
+        "label": "Gramsbergen",
+        "extra": {
+            "endDate": "2000-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Grave_(gemeente)",
+        "label": "Grave",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Groenlo_(gemeente)",
+        "label": "Groenlo",
+        "extra": {
+            "endDate": "2006-05-19"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Groesbeek_(gemeente)",
+        "label": "Groesbeek",
+        "extra": {
+            "endDate": "2015-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Groningen_(gemeente)",
+        "label": "Groningen",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Groningen_oud",
+        "label": "Groningen (Gr)",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Grootegast_(gemeente)",
+        "label": "Grootegast",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Grubbenvorst_(gemeente)",
+        "label": "Grubbenvorst",
+        "extra": {
+            "endDate": "2000-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Gulpen-Wittem",
+        "label": "Gulpen-Wittem",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Haaksbergen_(gemeente)",
+        "label": "Haaksbergen",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Haaren_(gemeente)",
+        "label": "Haaren",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Haarlem",
+        "label": "Haarlem",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Haarlemmerliede_en_Spaarnwoude",
+        "label": "Haarlemmerliede en Spaarnwoude",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Haarlemmermeer_(gemeente)",
+        "label": "Haarlemmermeer",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Haelen_(gemeente)",
+        "label": "Haelen",
+        "extra": {
+            "endDate": "2006-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Halderberge",
+        "label": "Halderberge",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Hardenberg",
+        "label": "Hardenberg",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Harderwijk_(gemeente)",
+        "label": "Harderwijk",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Hardinxveld-Giessendam_(gemeente)",
+        "label": "Hardinxveld-Giessendam",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Haren_(gemeente)",
+        "label": "Haren",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Harenkarspel_(gemeente)",
+        "label": "Harenkarspel",
+        "extra": {
+            "endDate": "2012-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Harlingen_(gemeente)",
+        "label": "Harlingen",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Harmelen_(gemeente)",
+        "label": "Harmelen",
+        "extra": {
+            "endDate": "2000-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Hasselt_(gemeente)",
+        "label": "Hasselt",
+        "extra": {
+            "endDate": "2000-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Hattem_(gemeente)",
+        "label": "Hattem",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Heel",
+        "label": "Heel",
+        "extra": {
+            "endDate": "2006-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Heemskerk_(gemeente)",
+        "label": "Heemskerk",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Heemstede_(gemeente)",
+        "label": "Heemstede",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Heerde_(gemeente)",
+        "label": "Heerde",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Heerenveen_(gemeente)",
+        "label": "Heerenveen",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Heerhugowaard_(gemeente)",
+        "label": "Heerhugowaard",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Heerjansdam_(gemeente)",
+        "label": "Heerjansdam",
+        "extra": {
+            "endDate": "2002-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Heerlen_(gemeente)",
+        "label": "Heerlen",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Heeze-Leende",
+        "label": "Heeze-Leende",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Heiloo_(gemeente)",
+        "label": "Heiloo",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Heino_(gemeente)",
+        "label": "Heino",
+        "extra": {
+            "endDate": "2000-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Helden_(gemeente)",
+        "label": "Helden",
+        "extra": {
+            "endDate": "2009-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Hellendoorn_(gemeente)",
+        "label": "Hellendoorn",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Hellevoetsluis_(gemeente)",
+        "label": "Hellevoetsluis",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Helmond_(gemeente)",
+        "label": "Helmond",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Hendrik-Ido-Ambacht_(gemeente)",
+        "label": "Hendrik-Ido-Ambacht",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Hengelo",
+        "label": "Hengelo",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Het_Bildt_oud",
+        "label": "Het Bildt",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Heteren_(gemeente)",
+        "label": "Heteren",
+        "extra": {
+            "endDate": "2000-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Heumen_(gemeente)",
+        "label": "Heumen",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Heusden_(gemeente)",
+        "label": "Heusden",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Heythuysen_(gemeente)",
+        "label": "Heythuysen",
+        "extra": {
+            "endDate": "2006-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Hillegom_(gemeente)",
+        "label": "Hillegom",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Hilvarenbeek_(gemeente)",
+        "label": "Hilvarenbeek",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Hilversum_(gemeente)",
+        "label": "Hilversum",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Hoevelaken_(gemeente)",
+        "label": "Hoevelaken",
+        "extra": {
+            "endDate": "1999-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Hof_van_Twente",
+        "label": "Hof van Twente",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Hollands_Kroon",
+        "label": "Hollands Kroon",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Holten_(gemeente)",
+        "label": "Holten",
+        "extra": {
+            "endDate": "2000-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Hontenisse_(gemeente)",
+        "label": "Hontenisse",
+        "extra": {
+            "endDate": "2002-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Hoogeveen_(gemeente)",
+        "label": "Hoogeveen",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Hoogezand-Sappemeer",
+        "label": "Hoogezand-Sappemeer",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Hoorn_(gemeente)",
+        "label": "Hoorn",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Horst_(gemeente)",
+        "label": "Horst",
+        "extra": {
+            "endDate": "2000-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Horst_aan_de_Maas",
+        "label": "Horst aan de Maas",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Houten_(gemeente)",
+        "label": "Houten",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Huissen_(gemeente)",
+        "label": "Huissen",
+        "extra": {
+            "endDate": "2000-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Huizen_(gemeente)",
+        "label": "Huizen",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Hulst_(gemeente)",
+        "label": "Hulst",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Hummelo_en_Keppel_oud",
+        "label": "Hummelo",
+        "extra": {
+            "endDate": "2004-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Hummelo_en_Keppel",
+        "label": "Hummelo en Keppel",
+        "extra": {
+            "endDate": "2004-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Hunsel_(gemeente)",
+        "label": "Hunsel",
+        "extra": {
+            "endDate": "2006-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/IJsselham_(gemeente)",
+        "label": "IJsselham",
+        "extra": {
+            "endDate": "2000-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/IJsselmuiden_(gemeente)",
+        "label": "IJsselmuiden",
+        "extra": {
+            "endDate": "2000-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/IJsselstein_(gemeente)",
+        "label": "IJsselstein",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Jacobswoude",
+        "label": "Jacobswoude",
+        "extra": {
+            "endDate": "2008-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Kaag_en_Braassem",
+        "label": "Kaag en Braassem",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Kampen_(gemeente)",
+        "label": "Kampen",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Kapelle_(gemeente)",
+        "label": "Kapelle",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Katwijk_(gemeente)",
+        "label": "Katwijk",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Kerkrade_(gemeente)",
+        "label": "Kerkrade",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Kessel_(gemeente)",
+        "label": "Kessel",
+        "extra": {
+            "endDate": "2009-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Kesteren_(gemeente)",
+        "label": "Kesteren",
+        "extra": {
+            "endDate": "2003-03-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Koggenland",
+        "label": "Koggenland",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Kollumerland_en_Nieuwkruisland",
+        "label": "Kollumerland en Nieuwkruisland",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Korendijk",
+        "label": "Korendijk",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Krimpen_aan_den_IJssel_(gemeente)",
+        "label": "Krimpen aan den IJssel",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Krimpenerwaard",
+        "label": "Krimpenerwaard",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Laarbeek",
+        "label": "Laarbeek",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Landerd",
+        "label": "Landerd",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Landgraaf_(gemeente)",
+        "label": "Landgraaf",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Landsmeer_(gemeente)",
+        "label": "Landsmeer",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Langedijk_(gemeente)",
+        "label": "Langedijk",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Lansingerland",
+        "label": "Lansingerland",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Laren_(gemeente)",
+        "label": "Laren",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Leek_(gemeente)",
+        "label": "Leek",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Leerdam_(gemeente)",
+        "label": "Leerdam",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Leersum_(gemeente)",
+        "label": "Leersum",
+        "extra": {
+            "endDate": "2005-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Leeuwarden_(gemeente)",
+        "label": "Leeuwarden",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Leeuwarderadeel",
+        "label": "Leeuwarderadeel",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Leiden_(gemeente)",
+        "label": "Leiden",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Leiderdorp_(gemeente)",
+        "label": "Leiderdorp",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Leidschendam",
+        "label": "Leidschendam",
+        "extra": {
+            "endDate": "2001-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Leidschendam-Voorburg",
+        "label": "Leidschendam-Voorburg",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Lelystad_(gemeente)",
+        "label": "Lelystad",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Lemsterland",
+        "label": "Lemsterland",
+        "extra": {
+            "endDate": "2013-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Leudal",
+        "label": "Leudal",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Leusden_(gemeente)",
+        "label": "Leusden",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Lichtenvoorde",
+        "label": "Lichtenvoorde",
+        "extra": {
+            "endDate": "2004-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Liemeer",
+        "label": "Liemeer",
+        "extra": {
+            "endDate": "2006-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Liesveld",
+        "label": "Liesveld",
+        "extra": {
+            "endDate": "2012-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Limmen_(gemeente)",
+        "label": "Limmen",
+        "extra": {
+            "endDate": "2001-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Lingewaal",
+        "label": "Lingewaal",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Lingewaard",
+        "label": "Lingewaard",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Lisse_(gemeente)",
+        "label": "Lisse",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Lith_(gemeente)",
+        "label": "Lith",
+        "extra": {
+            "endDate": "2010-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Littenseradiel",
+        "label": "Littenseradiel",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Lochem_(gemeente)",
+        "label": "Lochem",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Loenen_(gemeente)",
+        "label": "Loenen",
+        "extra": {
+            "endDate": "2010-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Loon_op_Zand_(gemeente)",
+        "label": "Loon op Zand",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Loosdrecht_(gemeente)",
+        "label": "Loosdrecht",
+        "extra": {
+            "endDate": "2001-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Lopik_(gemeente)",
+        "label": "Lopik",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Loppersum_(gemeente)",
+        "label": "Loppersum",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Losser_(gemeente)",
+        "label": "Losser",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Maarn_(gemeente)",
+        "label": "Maarn",
+        "extra": {
+            "endDate": "2005-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Maarssen_(gemeente)",
+        "label": "Maarssen",
+        "extra": {
+            "endDate": "2010-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Maartensdijk_(gemeente)",
+        "label": "Maartensdijk",
+        "extra": {
+            "endDate": "2000-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Maasbracht_(gemeente)",
+        "label": "Maasbracht",
+        "extra": {
+            "endDate": "2006-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Maasbree_(gemeente)",
+        "label": "Maasbree",
+        "extra": {
+            "endDate": "2009-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Maasdonk",
+        "label": "Maasdonk",
+        "extra": {
+            "endDate": "2014-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Maasdriel_(gemeente)",
+        "label": "Maasdriel",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Maasgouw",
+        "label": "Maasgouw",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Maasland_(gemeente)",
+        "label": "Maasland",
+        "extra": {
+            "endDate": "2003-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Maassluis_(gemeente)",
+        "label": "Maassluis",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Maastricht_(gemeente)",
+        "label": "Maastricht",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Margraten_(gemeente)",
+        "label": "Margraten",
+        "extra": {
+            "endDate": "2010-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Markelo_(gemeente)",
+        "label": "Markelo",
+        "extra": {
+            "endDate": "2000-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Marum_(gemeente)",
+        "label": "Marum",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Medemblik_(gemeente)",
+        "label": "Medemblik",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Meerlo-Wanssum",
+        "label": "Meerlo-Wanssum",
+        "extra": {
+            "endDate": "2009-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Meerssen_(gemeente)",
+        "label": "Meerssen",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Meierijstad",
+        "label": "Meierijstad",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Meijel_(gemeente)",
+        "label": "Meijel",
+        "extra": {
+            "endDate": "2009-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Menaldumadeel",
+        "label": "Menaldumadeel",
+        "extra": {
+            "endDate": "2010-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Menameradiel",
+        "label": "Menameradiel",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Menterwolde",
+        "label": "Menterwolde",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Meppel_(gemeente)",
+        "label": "Meppel",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Middelburg_(gemeente)",
+        "label": "Middelburg",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Middelharnis_(gemeente)",
+        "label": "Middelharnis",
+        "extra": {
+            "endDate": "2012-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Midden-Delfland",
+        "label": "Midden-Delfland",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Midden-Drenthe",
+        "label": "Midden-Drenthe",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Mierlo_(gemeente)",
+        "label": "Mierlo",
+        "extra": {
+            "endDate": "2003-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Mill_en_Sint_Hubert",
+        "label": "Mill en Sint Hubert",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Millingen_aan_de_Rijn",
+        "label": "Millingen aan de Rijn",
+        "extra": {
+            "endDate": "2014-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Moerdijk",
+        "label": "Moerdijk",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Molenwaard",
+        "label": "Molenwaard",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Monster_(gemeente)",
+        "label": "Monster",
+        "extra": {
+            "endDate": "2003-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Montferland",
+        "label": "Montferland",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Montfoort_(gemeente)",
+        "label": "Montfoort",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Mook_en_Middelaar_(gemeente)",
+        "label": "Mook en Middelaar",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Moordrecht_(gemeente)",
+        "label": "Moordrecht",
+        "extra": {
+            "endDate": "2009-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Muiden_(gemeente)",
+        "label": "Muiden",
+        "extra": {
+            "endDate": "2015-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Naaldwijk_(gemeente)",
+        "label": "Naaldwijk",
+        "extra": {
+            "endDate": "2003-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Naarden_(gemeente)",
+        "label": "Naarden",
+        "extra": {
+            "endDate": "2015-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Neder-Betuwe",
+        "label": "Neder-Betuwe",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Nederhorst_den_Berg_(gemeente)",
+        "label": "Nederhorst den Berg",
+        "extra": {
+            "endDate": "2001-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Nederlek",
+        "label": "Nederlek",
+        "extra": {
+            "endDate": "2014-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Nederweert_(gemeente)",
+        "label": "Nederweert",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Neede_(gemeente)",
+        "label": "Neede",
+        "extra": {
+            "endDate": "2004-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Neerijnen",
+        "label": "Neerijnen",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Niedorp_(gemeente)",
+        "label": "Niedorp",
+        "extra": {
+            "endDate": "2011-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Nieuw-Lekkerland",
+        "label": "Nieuw-Lekkerland",
+        "extra": {
+            "endDate": "2012-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Nieuwegein",
+        "label": "Nieuwegein",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Nieuwerkerk_aan_den_IJssel",
+        "label": "Nieuwerkerk aan den IJssel",
+        "extra": {
+            "endDate": "2009-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Nieuwkoop_(gemeente)",
+        "label": "Nieuwkoop",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Nieuwleusen_(gemeente)",
+        "label": "Nieuwleusen",
+        "extra": {
+            "endDate": "2000-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Nijefurd",
+        "label": "Nijefurd",
+        "extra": {
+            "endDate": "2010-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Nijkerk_(gemeente)",
+        "label": "Nijkerk",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Nijmegen_(gemeente)",
+        "label": "Nijmegen",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Nissewaard",
+        "label": "Nissewaard",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Noord-Beveland",
+        "label": "Noord-Beveland",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Noordenveld",
+        "label": "Noordenveld",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Noorder-Koggenland_(gemeente)",
+        "label": "Noorder-Koggenland",
+        "extra": {
+            "endDate": "2006-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Noordoostpolder_(gemeente)",
+        "label": "Noordoostpolder",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Noordwijk_(gemeente)",
+        "label": "Noordwijk",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Noordwijkerhout_(gemeente)",
+        "label": "Noordwijkerhout",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Nootdorp_(gemeente)",
+        "label": "Nootdorp",
+        "extra": {
+            "endDate": "2001-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Nuenen,_Gerwen_en_Nederwetten",
+        "label": "Nuenen, Gerwen en Nederwetten",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Nunspeet_(gemeente)",
+        "label": "Nunspeet",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Nuth_(gemeente)",
+        "label": "Nuth",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Obdam_(gemeente)",
+        "label": "Obdam",
+        "extra": {
+            "endDate": "2006-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Oegstgeest_(gemeente)",
+        "label": "Oegstgeest",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Oirschot_(gemeente)",
+        "label": "Oirschot",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Oisterwijk_(gemeente)",
+        "label": "Oisterwijk",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Oldambt",
+        "label": "Oldambt",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Oldebroek_(gemeente)",
+        "label": "Oldebroek",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Oldenzaal_(gemeente)",
+        "label": "Oldenzaal",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Olst_(gemeente)",
+        "label": "Olst",
+        "extra": {
+            "endDate": "2002-03-25"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Olst-Wijhe",
+        "label": "Olst-Wijhe",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Ommen",
+        "label": "Ommen",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Onderbanken",
+        "label": "Onderbanken",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Oost_Gelre",
+        "label": "Oost Gelre",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Oostburg_(gemeente)",
+        "label": "Oostburg",
+        "extra": {
+            "endDate": "2002-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Oosterhout_(gemeente)",
+        "label": "Oosterhout",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Oostflakkee_(gemeente)",
+        "label": "Oostflakkee",
+        "extra": {
+            "endDate": "2012-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Ooststellingwerf",
+        "label": "Ooststellingwerf",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Oostzaan_(gemeente)",
+        "label": "Oostzaan",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Ootmarsum_(gemeente)",
+        "label": "Ootmarsum",
+        "extra": {
+            "endDate": "2000-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Opmeer",
+        "label": "Opmeer",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Opsterland",
+        "label": "Opsterland",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Oss_(gemeente)",
+        "label": "Oss",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Oud-Beijerland_(gemeente)",
+        "label": "Oud-Beijerland",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Oude_IJsselstreek",
+        "label": "Oude IJsselstreek",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Ouder-Amstel_(gemeente)",
+        "label": "Ouder-Amstel",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Ouderkerk",
+        "label": "Ouderkerk",
+        "extra": {
+            "endDate": "2014-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Oudewater_(gemeente)",
+        "label": "Oudewater",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Overbetuwe",
+        "label": "Overbetuwe",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Papendrecht_(gemeente)",
+        "label": "Papendrecht",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Peel_en_Maas",
+        "label": "Peel en Maas",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Pekela",
+        "label": "Pekela",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Pijnacker_(gemeente)",
+        "label": "Pijnacker",
+        "extra": {
+            "endDate": "2001-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Pijnacker-Nootdorp",
+        "label": "Pijnacker-Nootdorp",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Purmerend_(gemeente)",
+        "label": "Purmerend",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Putten_(gemeente)",
+        "label": "Putten",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Raalte_(gemeente)",
+        "label": "Raalte",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Ravenstein_(gemeente)",
+        "label": "Ravenstein",
+        "extra": {
+            "endDate": "2002-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Reeuwijk_(gemeente)",
+        "label": "Reeuwijk",
+        "extra": {
+            "endDate": "2010-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Reiderland",
+        "label": "Reiderland",
+        "extra": {
+            "endDate": "2009-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Reimerswaal_(gemeente)",
+        "label": "Reimerswaal",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Renkum_(gemeente)",
+        "label": "Renkum",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Renswoude_(gemeente)",
+        "label": "Renswoude",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Reusel-De_Mierden",
+        "label": "Reusel-De Mierden",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Rheden_(gemeente)",
+        "label": "Rheden",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Rhenen_(gemeente)",
+        "label": "Rhenen",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Ridderkerk_(gemeente)",
+        "label": "Ridderkerk",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Rijnsburg_(gemeente)",
+        "label": "Rijnsburg",
+        "extra": {
+            "endDate": "2005-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Rijnwaarden",
+        "label": "Rijnwaarden",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Rijnwoude",
+        "label": "Rijnwoude",
+        "extra": {
+            "endDate": "2013-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Rijssen_(gemeente)",
+        "label": "Rijssen",
+        "extra": {
+            "endDate": "2003-03-14"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Rijssen-Holten",
+        "label": "Rijssen-Holten",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Rijswijk_(gemeente)",
+        "label": "Rijswijk",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Roerdalen",
+        "label": "Roerdalen",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Roermond_(gemeente)",
+        "label": "Roermond",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Roggel_en_Neer",
+        "label": "Roggel en Neer",
+        "extra": {
+            "endDate": "2006-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Roosendaal",
+        "label": "Roosendaal",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Rotterdam",
+        "label": "Rotterdam",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Rozenburg_(gemeente)",
+        "label": "Rozenburg",
+        "extra": {
+            "endDate": "2010-03-17"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Rozendaal_(gemeente)",
+        "label": "Rozendaal",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Rucphen_(gemeente)",
+        "label": "Rucphen",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Ruurlo_(gemeente)",
+        "label": "Ruurlo",
+        "extra": {
+            "endDate": "2004-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Sas_van_Gent_(gemeente)",
+        "label": "Sas van Gent",
+        "extra": {
+            "endDate": "2002-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Sassenheim_(gemeente)",
+        "label": "Sassenheim",
+        "extra": {
+            "endDate": "2005-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Schagen_(gemeente)",
+        "label": "Schagen",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Scheemda_(gemeente)",
+        "label": "Scheemda",
+        "extra": {
+            "endDate": "2009-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Schermer_(gemeente)",
+        "label": "Schermer",
+        "extra": {
+            "endDate": "2014-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Scherpenzeel_(gemeente)",
+        "label": "Scherpenzeel",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Schiedam_(gemeente)",
+        "label": "Schiedam",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Schiermonnikoog_(gemeente)",
+        "label": "Schiermonnikoog",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Schijndel_(gemeente)",
+        "label": "Schijndel",
+        "extra": {
+            "endDate": "2016-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Schinnen_(gemeente)",
+        "label": "Schinnen",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Schipluiden_(gemeente)",
+        "label": "Schipluiden",
+        "extra": {
+            "endDate": "2003-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Schoonhoven_(gemeente)",
+        "label": "Schoonhoven",
+        "extra": {
+            "endDate": "2014-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Schoorl_(gemeente)",
+        "label": "Schoorl",
+        "extra": {
+            "endDate": "2000-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Schouwen-Duiveland",
+        "label": "Schouwen-Duiveland",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Sevenum_(gemeente)",
+        "label": "Sevenum",
+        "extra": {
+            "endDate": "2009-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Simpelveld_(gemeente)",
+        "label": "Simpelveld",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Sint_Anthonis",
+        "label": "Sint Anthonis",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Sint-Michielsgestel_(gemeente)",
+        "label": "Sint-Michielsgestel",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Sint-Oedenrode",
+        "label": "Sint-Oedenrode",
+        "extra": {
+            "endDate": "2016-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Sittard_(gemeente)",
+        "label": "Sittard",
+        "extra": {
+            "endDate": "2000-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Sittard-Geleen",
+        "label": "Sittard-Geleen",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Skarsterlan",
+        "label": "Skarsterl\u00e2n",
+        "extra": {
+            "endDate": "2013-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Sliedrecht_(gemeente)",
+        "label": "Sliedrecht",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Slochteren",
+        "label": "Slochteren",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Sluis_(gemeente)",
+        "label": "Sluis",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Sluis-Aardenburg",
+        "label": "Sluis-Aardenburg",
+        "extra": {
+            "endDate": "2002-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Smallingerland",
+        "label": "Smallingerland",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Sneek_(gemeente)",
+        "label": "Sneek",
+        "extra": {
+            "endDate": "2010-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Soest_(gemeente)",
+        "label": "Soest",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Someren_(gemeente)",
+        "label": "Someren",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Son_en_Breugel_(gemeente)",
+        "label": "Son en Breugel",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Spijkenisse_(gemeente)",
+        "label": "Spijkenisse",
+        "extra": {
+            "endDate": "2014-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Stad_Delden_(gemeente)",
+        "label": "Stad Delden",
+        "extra": {
+            "endDate": "2000-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Stadskanaal",
+        "label": "Stadskanaal",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Staphorst_(gemeente)",
+        "label": "Staphorst",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Stede_Broec_(gemeente)",
+        "label": "Stede Broec",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Steenbergen_(gemeente)",
+        "label": "Steenbergen",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Steenderen_(gemeente)",
+        "label": "Steenderen",
+        "extra": {
+            "endDate": "2004-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Steenwijk_(gemeente)",
+        "label": "Steenwijk",
+        "extra": {
+            "endDate": "2002-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Steenwijkerland",
+        "label": "Steenwijkerland",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Stein_(gemeente)",
+        "label": "Stein",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Stichtse_Vecht",
+        "label": "Stichtse Vecht",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Strijen_(gemeente)",
+        "label": "Strijen",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Susteren_(gemeente)",
+        "label": "Susteren",
+        "extra": {
+            "endDate": "2002-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Swalmen_(gemeente)",
+        "label": "Swalmen",
+        "extra": {
+            "endDate": "2006-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Sudwest_Fryslan_oud",
+        "label": "S\u00fadwest Frysl\u00e2n",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Sudwest_Fryslan",
+        "label": "S\u00fadwest-Frysl\u00e2n",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Tegelen_(gemeente)",
+        "label": "Tegelen",
+        "extra": {
+            "endDate": "2000-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Ten_Boer_(gemeente)",
+        "label": "Ten Boer",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Ter_Aar_(gemeente)",
+        "label": "Ter Aar",
+        "extra": {
+            "endDate": "2006-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Terneuzen",
+        "label": "Terneuzen",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Terschelling_(gemeente)",
+        "label": "Terschelling",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Texel_(gemeente)",
+        "label": "Texel",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Teylingen",
+        "label": "Teylingen",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Tholen_(gemeente)",
+        "label": "Tholen",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Thorn_(gemeente)",
+        "label": "Thorn",
+        "extra": {
+            "endDate": "2006-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Tiel_(gemeente)",
+        "label": "Tiel",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Tilburg_(gemeente)",
+        "label": "Tilburg",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Tubbergen_(gemeente)",
+        "label": "Tubbergen",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Twenterand",
+        "label": "Twenterand",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Tynaarlo",
+        "label": "Tynaarlo",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Tytsjerksteradiel",
+        "label": "Tytsjerksteradiel",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Ubbergen_(gemeente)",
+        "label": "Ubbergen",
+        "extra": {
+            "endDate": "2014-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Uden_(gemeente)",
+        "label": "Uden",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Uitgeest_(gemeente)",
+        "label": "Uitgeest",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Uithoorn_(gemeente)",
+        "label": "Uithoorn",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Urk_(gemeente)",
+        "label": "Urk",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Utrecht_(gemeente)",
+        "label": "Utrecht",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Utrecht_oud",
+        "label": "Utrecht (Utr)",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Utrechtse_Heuvelrug",
+        "label": "Utrechtse Heuvelrug",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Vaals_(gemeente)",
+        "label": "Vaals",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Valburg_(gemeente)",
+        "label": "Valburg",
+        "extra": {
+            "endDate": "2000-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Valkenburg",
+        "label": "Valkenburg",
+        "extra": {
+            "endDate": "2005-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Valkenburg_aan_de_Geul",
+        "label": "Valkenburg aan de Geul",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Valkenswaard_(gemeente)",
+        "label": "Valkenswaard",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Veendam_(gemeente)",
+        "label": "Veendam",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Veenendaal_(gemeente)",
+        "label": "Veenendaal",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Veere",
+        "label": "Veere",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Veghel_(gemeente)",
+        "label": "Veghel",
+        "extra": {
+            "endDate": "2016-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Veldhoven_(gemeente)",
+        "label": "Veldhoven",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Velsen_(gemeente)",
+        "label": "Velsen",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Venhuizen_(gemeente)",
+        "label": "Venhuizen",
+        "extra": {
+            "endDate": "2005-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Venlo_(gemeente)",
+        "label": "Venlo",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Venray_(gemeente)",
+        "label": "Venray",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Vianen_(gemeente)",
+        "label": "Vianen",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Vlaardingen_(gemeente)",
+        "label": "Vlaardingen",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Vlagtwedde_(gemeente)",
+        "label": "Vlagtwedde",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Vleuten-De_Meern",
+        "label": "Vleuten-De Meern",
+        "extra": {
+            "endDate": "2000-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Vlieland_(gemeente)",
+        "label": "Vlieland",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Vlissingen_(gemeente)",
+        "label": "Vlissingen",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Vlist_(gemeente)",
+        "label": "Vlist",
+        "extra": {
+            "endDate": "2014-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Voerendaal_(gemeente)",
+        "label": "Voerendaal",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Voorburg_(gemeente)",
+        "label": "Voorburg",
+        "extra": {
+            "endDate": "2001-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Voorhout_(gemeente)",
+        "label": "Voorhout",
+        "extra": {
+            "endDate": "2005-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Voorschoten_(gemeente)",
+        "label": "Voorschoten",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Voorst_(gemeente)",
+        "label": "Voorst",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Vorden_(gemeente)",
+        "label": "Vorden",
+        "extra": {
+            "endDate": "2004-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Vriezenveen_(gemeente)",
+        "label": "Vriezenveen",
+        "extra": {
+            "endDate": "2002-05-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Vught_(gemeente)",
+        "label": "Vught",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Waalre_(gemeente)",
+        "label": "Waalre",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Waalwijk_(gemeente)",
+        "label": "Waalwijk",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Waddinxveen_(gemeente)",
+        "label": "Waddinxveen",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Wageningen_(gemeente)",
+        "label": "Wageningen",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Warmond_(gemeente)",
+        "label": "Warmond",
+        "extra": {
+            "endDate": "2005-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Warnsveld_(gemeente)",
+        "label": "Warnsveld",
+        "extra": {
+            "endDate": "2004-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Wassenaar_(gemeente)",
+        "label": "Wassenaar",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Wateringen_(gemeente)",
+        "label": "Wateringen",
+        "extra": {
+            "endDate": "2003-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Waterland_(gemeente)",
+        "label": "Waterland",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Weerselo_(gemeente)",
+        "label": "Weerselo",
+        "extra": {
+            "endDate": "2000-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Weert_(gemeente)",
+        "label": "Weert",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Weesp_(gemeente)",
+        "label": "Weesp",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Wehl_(gemeente)",
+        "label": "Wehl",
+        "extra": {
+            "endDate": "2004-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Werkendam_(gemeente)",
+        "label": "Werkendam",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Wervershoof_(gemeente)",
+        "label": "Wervershoof",
+        "extra": {
+            "endDate": "2010-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/West_Maas_en_Waal",
+        "label": "West Maas en Waal",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Wester-Koggenland_(gemeente)",
+        "label": "Wester-Koggenland",
+        "extra": {
+            "endDate": "2006-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Westerveld",
+        "label": "Westerveld",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Westervoort_(gemeente)",
+        "label": "Westervoort",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Westland",
+        "label": "Westland",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Weststellingwerf",
+        "label": "Weststellingwerf",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Westvoorne_(gemeente)",
+        "label": "Westvoorne",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Wierden_(gemeente)",
+        "label": "Wierden",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Wieringen_(gemeente)",
+        "label": "Wieringen",
+        "extra": {
+            "endDate": "2011-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Wieringermeer_(gemeente)",
+        "label": "Wieringermeer",
+        "extra": {
+            "endDate": "2011-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Wijchen_(gemeente)",
+        "label": "Wijchen",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Wijdemeren",
+        "label": "Wijdemeren",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Wijhe_(gemeente)",
+        "label": "Wijhe",
+        "extra": {
+            "endDate": "2000-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Wijk_bij_Duurstede_(gemeente)",
+        "label": "Wijk bij Duurstede",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Winschoten_(gemeente)",
+        "label": "Winschoten",
+        "extra": {
+            "endDate": "2009-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Winsum_(gemeente)",
+        "label": "Winsum",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Winterswijk_(gemeente)",
+        "label": "Winterswijk",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Wisch_(gemeente)",
+        "label": "Wisch",
+        "extra": {
+            "endDate": "2004-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Woensdrecht_(gemeente)",
+        "label": "Woensdrecht",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Woerden_(gemeente)",
+        "label": "Woerden",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Wognum_(gemeente)",
+        "label": "Wognum",
+        "extra": {
+            "endDate": "2006-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Wormerland",
+        "label": "Wormerland",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Woudenberg_(gemeente)",
+        "label": "Woudenberg",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Woudrichem_(gemeente)",
+        "label": "Woudrichem",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Wymbritseradiel",
+        "label": "Wymbritseradiel",
+        "extra": {
+            "endDate": "2010-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Wunseradiel",
+        "label": "W\u00fbnseradiel",
+        "extra": {
+            "endDate": "2010-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Zaanstad",
+        "label": "Zaanstad",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Zaltbommel_(gemeente)",
+        "label": "Zaltbommel",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Zandvoort_(gemeente)",
+        "label": "Zandvoort",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Zederik_(gemeente)",
+        "label": "Zederik",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Zeevang",
+        "label": "Zeevang",
+        "extra": {
+            "endDate": "2015-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Zeewolde_(gemeente)",
+        "label": "Zeewolde",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Zeist_(gemeente)",
+        "label": "Zeist",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Zelhem_(gemeente)",
+        "label": "Zelhem",
+        "extra": {
+            "endDate": "2004-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Zevenaar_(gemeente)",
+        "label": "Zevenaar",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Zevenhuizen-Moerkapelle",
+        "label": "Zevenhuizen-Moerkapelle",
+        "extra": {
+            "endDate": "2009-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Zijpe_(gemeente)",
+        "label": "Zijpe",
+        "extra": {
+            "endDate": "2012-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Zoetermeer_(gemeente)",
+        "label": "Zoetermeer",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Zoeterwoude_(gemeente)",
+        "label": "Zoeterwoude",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Zuidhorn_(gemeente)",
+        "label": "Zuidhorn",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Zuidplas",
+        "label": "Zuidplas",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Zundert_(gemeente)",
+        "label": "Zundert",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Zutphen_(gemeente)",
+        "label": "Zutphen",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Zwartewaterland",
+        "label": "Zwartewaterland",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Zwartsluis_(gemeente)",
+        "label": "Zwartsluis",
+        "extra": {
+            "endDate": "2000-12-31"
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Zwijndrecht_(gemeente)",
+        "label": "Zwijndrecht",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Zwolle_(gemeente)",
+        "label": "Zwolle",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Het_Bildt",
+        "label": "het Bildt",
+        "extra": {
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Drenthe",
+        "label": "Drenthe",
+        "extra": {
+            "waardelijst": "overheid:Provincie",
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Flevoland",
+        "label": "Flevoland",
+        "extra": {
+            "waardelijst": "overheid:Provincie",
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Fryslan",
+        "label": "Frysl\u00e2n",
+        "extra": {
+            "waardelijst": "overheid:Provincie",
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Gelderland",
+        "label": "Gelderland",
+        "extra": {
+            "waardelijst": "overheid:Provincie",
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Groningen_(provincie)",
+        "label": "Groningen",
+        "extra": {
+            "waardelijst": "overheid:Provincie",
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Limburg",
+        "label": "Limburg",
+        "extra": {
+            "waardelijst": "overheid:Provincie",
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Noord-Brabant",
+        "label": "Noord-Brabant",
+        "extra": {
+            "waardelijst": "overheid:Provincie",
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Noord-Holland",
+        "label": "Noord-Holland",
+        "extra": {
+            "waardelijst": "overheid:Provincie",
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Overijssel",
+        "label": "Overijssel",
+        "extra": {
+            "waardelijst": "overheid:Provincie",
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Utrecht_(provincie)",
+        "label": "Utrecht",
+        "extra": {
+            "waardelijst": "overheid:Provincie",
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Zeeland_(provincie)",
+        "label": "Zeeland",
+        "extra": {
+            "waardelijst": "overheid:Provincie",
+            "endDate": null
+        }
+    },
+    {
+        "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Zuid-Holland",
+        "label": "Zuid-Holland",
+        "extra": {
+            "waardelijst": "overheid:Provincie",
+            "endDate": null
+        }
+    }
+]
